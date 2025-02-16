@@ -1,0 +1,3 @@
+[Report]
+Uri=file:///home/user/Videos
+Message=Unknown target graph for uri:'file:///home/user/Videos' and mime:'inode/directory'
